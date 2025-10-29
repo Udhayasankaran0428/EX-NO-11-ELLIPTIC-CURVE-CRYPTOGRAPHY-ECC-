@@ -114,7 +114,7 @@ int main() {
 ```
 
 ## Output:
-<img width="716" height="466" alt="image" src="https://github.com/user-attachments/assets/24262753-c196-4d85-b8b7-b5d254eb3841" />
+<img width="616" height="466" alt="image" src="https://github.com/user-attachments/assets/24262753-c196-4d85-b8b7-b5d254eb3841" />
 
 ## Result:
 The program is executed successfully.
